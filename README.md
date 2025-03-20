@@ -12,5 +12,5 @@ Key Features:
 Technologies Used:
 - Java Server Pages (JSP)
 - JDBC for database access
-- HTML, CSS, JavaScript** for front-end development
+- HTML, CSS, JavaScript for front-end development
 
